@@ -17,8 +17,6 @@ export const categories = [
 
 export const cards = [
 
-  // ------------------ Alignment Principles ------------------
-
   { 
     "category": "AP", 
     "name": "Beneficence", 
@@ -109,8 +107,6 @@ export const cards = [
       "machine": "A neural network generates results no one can interpret." 
     }
   },
-
-  // ------------------ Aligning Behavior with Intent ------------------
 
   { 
     "category": "AB", 
