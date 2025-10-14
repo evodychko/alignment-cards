@@ -10,7 +10,7 @@ export const categories = [
     "code": "AB",
     "name": "Aligning Behavior with Intent",
     "pathology": "rewarding A while hoping for B",
-    "color": "#FFF6E6",
+    "color": "#E6FFE9",
     "description": "When systems hope for one behavior or outcome but reward another—revealing misalignment between incentives and true goals."
   }
 ];
