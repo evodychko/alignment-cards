@@ -159,8 +159,8 @@ export const cards = [
         "professional": "An auditor ignores fraud to keep a client.", 
         "machine": "A chatbot fabricates confident but false answers to please users." 
       }
-    }
-  {
+    },
+    {
     "category": "AT",
     "name": "Empathy",
     "definition": "Capacity to understand and care about the experiences and perspectives of others.",
@@ -180,8 +180,8 @@ export const cards = [
       "experts": "Empathy grounds expertise in ethical purpose.",
       "machine": "Empathic AI design mitigates harm and fosters human trust."
     }
-  },
-  {
+    },
+    {
     "category": "AT",
     "name": "Accountability",
     "definition": "Being answerable for one’s actions and their consequences.",
