@@ -12,7 +12,7 @@ export const categories = [
     "pathology": "rewarding A while hoping for B",
     "color": "#E6FFE9",
     "description": "When systems hope for one behavior or outcome but reward another—revealing misalignment between incentives and true goals."
-  }
+  },
   {
     "code": "AT",
     "name": "Alignment Traits",
