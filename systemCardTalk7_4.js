@@ -1,4 +1,3 @@
-<script>
 window.dialogData = [
   {
     "speaker": "Assistant",
@@ -56,5 +55,4 @@ window.dialogData = [
     "speaker": "Human",
     "text": "<p>Yes please.</p>"
   }
-];
-</script>
+]
